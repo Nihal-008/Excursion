@@ -1,0 +1,15 @@
+*{margin:0px;padding: 0px;}
+body{font-family: Verdana, Geneva, Tahoma, sans-serif;background-color: black;text-align: center;}
+.header{font-weight: normal;color:white;font-size: 50px;}
+.subTitle{color: aquamarine;font-size: 16px;text-decoration: underline;}
+.guide{font-weight: 300px;font-size: 42px;color: white;}
+.interest{font-size: 21px;color:gray}
+.space5{height:0.3em; display:block;}
+.space10{height:0.6em; display:block;}
+.space20{height:1.2em; display:block;}
+.space25{height:1.5em; display:block;}
+.space30{height:1.8em; display:block;}
+.space35{height:2.1em; display:block;}
+.space40{height:2.5em; display:block;}
+.space50{height:3.1em; display:block;}
+footer{color: gray;text-align: right;}
